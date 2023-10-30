@@ -1,0 +1,4 @@
+# ファイルパターンに対する改行コード設定
+*.txt text
+*.js text
+*.html text
