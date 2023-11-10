@@ -9,4 +9,3 @@ function setDefaultPhoneNumber() {
 
 // フォームが読み込まれたときにデフォルトの電話番号を設定
 Xrm.Page.data.addOnLoad(setDefaultPhoneNumber);
-//testtype
